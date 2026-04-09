@@ -1,3 +1,7 @@
+# Dupla
+- Henrique Hardt Scholl
+- Thiago Marinho Solfo
+
 # A* - Stardew Valley
 
 ### O que o código faz?
